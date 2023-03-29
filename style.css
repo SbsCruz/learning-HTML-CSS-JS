@@ -1,0 +1,124 @@
+html{
+    background-color: rgba(236, 196, 196, 0.99);
+    background-image: url("img/peepo.jpg");
+    background-size: 150px 150px ;
+    background-size: contain;
+    background-repeat: repeat-y;
+    background-position: right top;
+}
+
+header h1{
+    text-align: center;
+    background-color:  rgba(128, 128, 128, 0.8);
+    border-color: black;
+    border-style: groove ;
+    border-width: 2px;
+    border-radius: 8px;
+}
+header p{
+    font-size: large;
+    background-color: rgba(236, 196, 196, 0.8);
+    border-color: black;
+    border-style: groove ;
+    border-width: 2px;
+    border-radius: 8px;
+}
+
+h1{
+    font-size: 90px;
+}
+
+.post h3{
+    font-size: 38px;
+
+}
+
+.postTitle {
+    text-align: center;
+    font-style: oblique;
+    font-size:45px;
+    font-weight: 10000;
+    color: rgb(75, 0, 128);
+    text-decoration: underline ;
+    text-shadow: 1px 3px 2px rgb(30, 0, 52);
+}
+
+p.description{
+    font-size: 25px;
+    font-weight: 10000;
+    color: rgb(0, 44, 63);
+}
+
+.impressMe{
+    font-size: large;
+    color: rgb(0, 44, 63);
+    background-color: rgba(245, 245, 245, 0.926);
+    border-style: none ;
+    border-width: 2px;
+    border-radius: 8px;
+    padding: 2px 1px 1px 6px;
+}
+
+.impressParis{
+    font-size: large;
+    color: rgb(0, 44, 63);
+    background-color: rgba(245, 245, 245, 0.926);
+    border-style: none ;
+    border-width: 2px;
+    border-radius: 8px;
+    padding: 2px 1px 1px 6px;
+}
+
+p.titleText{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.875) ;
+    font-size:20px;
+    
+}
+
+#meEarlGirl{
+    border: 10px rgb(0, 44, 63) ;
+    border-style: solid;
+    border-radius: 5px;
+
+
+}
+
+#parisTexas{
+    border: 10px rgb(255, 0, 149) ;
+    border-style: solid;
+    border-radius: 5px;
+
+}
+
+section img{
+    text-align: center;
+
+}
+
+
+.post{
+    background-color:  rgba(236, 196, 196, 0.6);
+    border-color: black;
+    border-style: groove ;
+    border-width: 2px;
+    border-radius: 8px;
+    padding: 3px 27px 3px 27px;
+
+}
+
+footer{
+
+    background-color: aliceblue;
+    border-radius: 5px;
+    border-color: darkblue;
+    border-width: 2px;
+    border-style: solid;
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
+
+.imagen{
+    text-align: center;
+}
+
